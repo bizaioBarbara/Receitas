@@ -1,0 +1,9 @@
+* Fubá
+* Água
+* Óleo
+* Manteiga
+* Leite
+* Fermento
+* Ovo
+* Farinha
+* Açúcar
